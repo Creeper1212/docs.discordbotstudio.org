@@ -1,0 +1,652 @@
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0ObPBIVFe1CLyu7jj5%2F-M0Oba7tfci-3CDyG1Wc%2Faddcommand.png?alt=media&token=c750d26e-14ce-4a0e-b698-27de8881ae33
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\addcommand.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0ObPBIVFe1CLyu7jj5%2F-M0Oc1NrjgYC0y4CC1w0%2Fcmdname.png?alt=media&token=8830eabd-b457-4b5f-b0a5-ad22eb17de38
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\cmdname.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0OcB3AtOeQhZgIdTuf%2F-M0OcNphGsjmJq8FQiDx%2Fdbl.png?alt=media&token=d6e20573-4afc-4bb5-89e9-ced3f18d808c
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\dbl.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0Ocw4EuHKsVNyzTgUX%2F-M0Od9tsMb8LMmw4sr1v%2Fimage.png?alt=media&token=f667d35f-a662-4f7d-8ae7-986151d730d7
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-20.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0OdXJNBlB0GajYWjDb%2F-M0OeEOCSqmThSMWY04a%2Fdrag.gif?alt=media&token=4eb819c9-a470-4914-877e-d80be89896d5
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\drag.gif
+Content Type: image/gif
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0OepK_GeQe27o7BfQh%2F-M0OfJaM4WffWJlvBGVN%2Fimage.png?alt=media&token=19764853-aab4-4302-933b-62332d8562fb
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-21.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0OghpW-bhkxmaDH3Jb%2F-M0OgqAy8XWm3RlhS0in%2Fimage.png?alt=media&token=45a1fe9b-b4b5-4f5f-acdc-d18d2ef539dc
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-22.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0OghpW-bhkxmaDH3Jb%2F-M0OhKmtdHhPUJVyKDfn%2Fimage.png?alt=media&token=346e06fe-be3d-4257-87ad-456de6ed96db
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-23.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-M0OhYtPNRYEuPxM5T30%2F-M0Ohf82TiFtToYf5-o2%2Fimage.png?alt=media&token=3196e908-2235-46aa-88b1-0eb7b2158936
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-24.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3d1zVqagHReaq2k45%2F-MF3djbIR-KYZSgclIIO%2Fimage.png?alt=media&token=005a8ae2-6553-49f6-b10f-e89059dd0647
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-17.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3e3dCEvfl9iwmvuPa%2F-MF3eJ01PePS5-2Mi8rW%2Fimage.png?alt=media&token=d29b1a9b-54cd-40fe-ac89-d96e1e6219a9
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-18.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3fRur3iFJ3RqRbQ26%2F-MF3fVKwEV6AF4DnQQzF%2Fconnect.gif?alt=media&token=bfced689-eb13-471f-b186-ae6580301eed
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\connect.gif
+Content Type: image/gif
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3g5PTma-Wc1o81e7S%2F-MF3gFYsgVmZdckOxRXy%2Fimage.png?alt=media&token=90ae2517-f59f-45b9-8e8f-eb4bebeb6e35
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-19.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3V0RLuvCSINLSS4ih%2F-MF3ab1-XXtbdHk_wGYG%2Fimage.png?alt=media&token=d3b003d7-98e8-46dc-b99b-843b44936746
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-7.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3V0RLuvCSINLSS4ih%2F-MF3asH01QVpK3CtkUsG%2Fimage.png?alt=media&token=f31fde0c-e40e-466f-a372-188fc234aa36
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-8.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3V0RLuvCSINLSS4ih%2F-MF3bBNZ32KePEbTPcOk%2Fimage.png?alt=media&token=380bef20-cbd2-413f-b97d-97b89fee2e12
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-9.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MF3V0RLuvCSINLSS4ih%2F-MF3bTAFxqiYzsBLurfe%2Fimage.png?alt=media&token=ac0a7125-76b4-410f-a8f0-2d5604c12f33
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-10.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MgcyqX2cVUDdunhGqNi%2F-Mgd-huInkx6yLxoqOeQ%2Fimage.png?alt=media&token=22468523-f657-4d66-b2a7-34904dc1e7b0
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-29.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MgcyqX2cVUDdunhGqNi%2F-Mgd0LXwYqXdJIMSKH2L%2Fimage.png?alt=media&token=bb58ae7e-ea9f-478b-a52d-93d3f24d8943
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-30.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-Mgd0flw8RrWOI3EZqE8%2F-Mgd1nejnktaAMv3LKDW%2Fimage.png?alt=media&token=720b93b3-e4a6-4261-8659-1cb0305c84fc
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-31.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-Mgd1rvHOSXIDNj1P-t7%2F-Mgd2ntphUlGJT_RQ5U9%2Fimage.png?alt=media&token=4cd07f79-9aa5-4018-b0be-3ba36e7343d3
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-32.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-Mgd4OLZ58th90KUClRC%2F-Mgd68vzrEOsTgQqt7yW%2Fimage.png?alt=media&token=d36290b3-a2a8-4ebb-b27a-941074abe154
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-33.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-Mgd7h_meGWg9iw2-rsT%2F-Mgd7qmB1gMjpQbF6mpv%2Fimage.png?alt=media&token=f39972b5-c494-446d-80df-2467866de906
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-34.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MhEjtq6C7y6yw5loCKz%2F-MhEkp7nAkQSllHtv8ki%2Fimage.png?alt=media&token=8e3b12af-acb3-49b5-9ea7-2ac857d3262a
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-25.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MhEjtq6C7y6yw5loCKz%2F-MhEkzX7O65oXpqrdzaC%2Fimage.png?alt=media&token=5d22db90-c463-4022-a933-c8a08925ae16
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-26.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MhEjtq6C7y6yw5loCKz%2F-MhEl9aTrufGlcYv4jXA%2Fimage.png?alt=media&token=a828a118-3fc9-49b1-907d-cafa4169b98f
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-27.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MhEjtq6C7y6yw5loCKz%2F-MhElJmRhSky2xFbbfDO%2Fimage.png?alt=media&token=e85c5ecf-22c6-4d88-a77b-6c9b78d41aa8
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-28.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MjuA5_dOhVBc2BPSG3Z%2F-MjuAlyxUnn6jmKvFuzE%2Fimage.png?alt=media&token=f3eed3a9-db46-4ab9-b923-189a6950fa29
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-35.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MjuBRm0XFpgIhdecfAq%2F-MjuCB7vx8IyiyU58-OM%2Fimage.png?alt=media&token=b4707e42-ff14-49f1-a5c7-633f1174a7a2
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-36.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MjuBRm0XFpgIhdecfAq%2F-MjuClrcawBD_QnMZO89%2Fimage.png?alt=media&token=b4847689-d30d-41c8-9ed8-4c845932d4e1
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-37.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MURyip6tvVTtiCihH8T%2F-MURyw8Z4NTG8OJDs4Ks%2Fimage.png?alt=media&token=4e8d0860-7e06-4c1b-a152-5e87b1a48b87
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-11.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MURyip6tvVTtiCihH8T%2F-MURz6IU5frAFd23pDW1%2Fimage.png?alt=media&token=71f78fd0-3862-42d2-9b9b-109711f3737f
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-12.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MURyip6tvVTtiCihH8T%2F-MURzJC2iz7Mre6U6yzR%2Fimage.png?alt=media&token=a92c5855-2eb2-452c-ab3c-87bfb26cb130
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-13.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MUS07CBBkfRr_yuNC6u%2F-MUS0hp210vbxjRjgP61%2Fimage.png?alt=media&token=1ed31e4d-63d7-4cef-a6e4-7c1d426ddf41
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-15.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MUS07CBBkfRr_yuNC6u%2F-MUS0X5O7Tgibkv83_qZ%2Fimage.png?alt=media&token=69f729e6-1ebf-4965-b047-fd4ccefbeeb1
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-14.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MUS07CBBkfRr_yuNC6u%2F-MUS0xGPIH2CMQUF0fai%2Fimage.png?alt=media&token=a0c98770-73b8-4b72-b4d8-c907f92cb091
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-16.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MVHhLbtKme3lvVg7S-q%2F-MVHhqubA318v3UpugJh%2Fimage.png?alt=media&token=ff2fc3f5-3ebb-463e-b6ca-4ac94b031878
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MVHhLbtKme3lvVg7S-q%2F-MVHi5q9-fynmZQCe8e0%2Fimage.png?alt=media&token=9d1891e4-03f5-49d0-85af-0c2f815cce83
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-1.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MVHhLbtKme3lvVg7S-q%2F-MVHi8b6AaEuREuxJbvd%2Fimage.png?alt=media&token=06b1ba86-4461-4033-b296-b8e129d67243
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-2.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MVHhLbtKme3lvVg7S-q%2F-MVHkAYhM9zS6RvsGTic%2Fimage.png?alt=media&token=07ef41c3-57bf-43be-a84d-b8aa2bcd02e2
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-3.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MVHhLbtKme3lvVg7S-q%2F-MVHkJmXqVB5ZqOmBbh-%2Fimage.png?alt=media&token=b555b932-79c3-4ea9-a09c-ec66869e1f78
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-4.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MVHkRSxIXed4wtI7Xg4%2F-MVHkhhZYY7ec3IC8Y5P%2Fimage.png?alt=media&token=e97ea572-fb61-4c27-a2be-1532f114f3c5
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-6.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M0L1z_JwGF9x5j-YBBE%2F-MVHkRSxIXed4wtI7Xg4%2F-MVHkUCYtvIndtQ6UzFS%2Fimage.png?alt=media&token=ec943c5d-3d64-4c1b-a74f-cb0996583661
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\image-5.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Favatar.png?generation=1582035503308156&alt=media
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-legacy-files\o\spaces-M0L1z_JwGF9x5j-YBBEavatar.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2F3l1I78kbGDrds011gu0p%2Fimage.png?alt=media&token=019e766f-fb48-4a75-a611-fa448a32070e
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploads3l1I78kbGDrds011gu0pimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2F4pWi73UFbKgmQkPCePdb%2Fimage.png?alt=media&token=72ffbe3a-91d2-4e49-ad05-5c21412b9341
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploads4pWi73UFbKgmQkPCePdbimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2F5qBOALhd3hydiCS40xVZ%2Fimage.png?alt=media&token=3bd99304-6569-4aaf-a5d2-ae332cfac305
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploads5qBOALhd3hydiCS40xVZimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2F6bacZkqO2cnD8CYOd8sc%2Fimage.png?alt=media&token=a973b0e8-50e2-4128-9ee8-f4a8d1e057aa
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploads6bacZkqO2cnD8CYOd8scimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2F6uN2PLYgJVEv7R44R75g%2Fimage.png?alt=media&token=f41c1170-4b51-4fbd-9415-dcd730ededea
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploads6uN2PLYgJVEv7R44R75gimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2Faro6ZPiDf5wYAYpaa68m%2Fimage.png?alt=media&token=af348111-296c-4ac4-8026-b98ecc38b57e
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsaro6ZPiDf5wYAYpaa68mimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FDqJ8FXlXUV7DMAaY0HDA%2Fimage.png?alt=media&token=b73341de-efa6-4c22-89ff-caa8c5ff101a
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsDqJ8FXlXUV7DMAaY0HDAimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FjNWwKCfBNmVFyTnjJE16%2Fimage.png?alt=media&token=1c6b84b9-8321-4f43-b015-e711c4869a6b
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsjNWwKCfBNmVFyTnjJE16image.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FK3A5PiGBuAgmFGBDitIz%2Fimage.png?alt=media&token=1ed069c8-7ccb-4f60-be9b-39ad397b5afa
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsK3A5PiGBuAgmFGBDitIzimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FkiHfKKu9kkOcT9lgAtNw%2Fimage.png?alt=media&token=2189e83e-4f69-4c0b-b802-4c04e4124810
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadskiHfKKu9kkOcT9lgAtNwimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FkypCf7kp7oYgqVRpoRHM%2Fimage.png?alt=media&token=fcd55ba2-43fb-4c2c-9217-ca0bed0881c7
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadskypCf7kp7oYgqVRpoRHMimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2Fmavi9RrI7Su3l7QEedyD%2Fimage.png?alt=media&token=73a10b25-f853-4fb9-8523-38066f163fa7
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsmavi9RrI7Su3l7QEedyDimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FOONnw9wnLlPIFOWgaM2M%2Fimage.png?alt=media&token=f2fc851a-5227-492d-a4a4-62a29bb16d90
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsOONnw9wnLlPIFOWgaM2Mimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FpNMFLWWMeA0MIngEzIFw%2Fimage.png?alt=media&token=27a259b5-f10b-4699-af41-cea34807cadb
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadspNMFLWWMeA0MIngEzIFwimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FtzboVctkukpBkbrUowNb%2Fimage.png?alt=media&token=226f45e4-955c-42d8-ba94-ccdda7741f35
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadstzboVctkukpBkbrUowNbimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2Fv8Fw8pi75ItK0Md6Gszv%2Fimage.png?alt=media&token=94d424fb-072c-42f5-8ebc-ac685dd9d240
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsv8Fw8pi75ItK0Md6Gszvimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FWfOst1qPyFBQxJtoN69b%2Fimage.png?alt=media&token=51e0bb42-d3f1-4bf4-95d8-5b00f4940dd0
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsWfOst1qPyFBQxJtoN69bimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2Fwp2m6KI9sibDZ3yHYn1U%2Fimage.png?alt=media&token=e981a1e6-be9e-4bbb-9d75-41809ceb956c
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadswp2m6KI9sibDZ3yHYn1Uimage.png
+Content Type: image/png
+
+Uri: https://2973439326-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M0L1z_JwGF9x5j-YBBE%2Fuploads%2FYfRhZpyzbt4rc5IENcSC%2Fimage.png?alt=media&token=66f1ffbe-22a8-4500-bc3d-488323732e46
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\~\files\v0\b\gitbook-x-prod.appspot.com\o\spaces-M0L1z_JwGF9x5j-YBBEuploadsYfRhZpyzbt4rc5IENcSCimage.png
+Content Type: image/png
+
+Uri: https://app.gitbook.com/public/app/public-QMH7II3W.min.js?v=10.9.511-94f5dcc547c40ccfd64cb11a41b2175b6882f5e9-7179205441
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\app\public-QMH7II3W.min.js
+Content Type: application/javascript
+
+Uri: https://app.gitbook.com/public/app/public-ZRO4LK72.css?v=10.9.511-94f5dcc547c40ccfd64cb11a41b2175b6882f5e9-7179205441
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\app\public-ZRO4LK72.css
+Content Type: text/css
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Bold.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Bold.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Bold.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-BoldItalic.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-BoldItalic.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Italic.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Italic.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Italic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Medium.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Medium.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Medium.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-MediumItalic.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-MediumItalic.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Regular.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/IBMPlexMono/IBMPlexMono-Regular.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\IBMPlexMono\IBMPlexMono-Regular.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Black.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Black.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Black.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Black.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-BlackItalic.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-BlackItalic.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Bold.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Bold.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Bold.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-BoldItalic.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-BoldItalic.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Italic.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Italic.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Italic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Medium.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Medium.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Medium.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-MediumItalic.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-MediumItalic.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Regular.woff2?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://app.gitbook.com/public/fonts/Roboto/Roboto-Regular.woff?v=3.21
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\public\fonts\Roboto\Roboto-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.iframe.ly/embed.js
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\embed.js
+Content Type: application/javascript
+
+Uri: https://cdn.polyfill.io/v2/polyfill.js?features=Intl.~locale.en
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\v2\polyfill.js
+Content Type: text/javascript
+
+Uri: https://docs.discordbotstudio.org/
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\index.htm
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/commands/command-aliases
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\commands\command-aliases.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/commands/how-to-make-a-discord-bot-assign-roles
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\commands\how-to-make-a-discord-bot-assign-roles.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/commands/kick-ban-command
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\commands\kick-ban-command.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/commands/purge-command
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\commands\purge-command.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/commands/ticket-system
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\commands\ticket-system.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/commands/untitled
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\commands\untitled.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/commands/xp-system
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\commands\xp-system.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/event-types
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\event-types.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/event-types/any-message
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\event-types\any-message.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/event-types/bot-initialization
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\event-types\bot-initialization.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/event-types/channel-create
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\event-types\channel-create.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/event-types/channel-delete
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\event-types\channel-delete.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/event-types/channel-update
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\event-types\channel-update.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/event-types/user-joins-server
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\event-types\user-joins-server.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/events/overview
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\events\overview.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/misc/buttons-and-selects
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\misc\buttons-and-selects.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/misc/buttons-and-selects/determining-which-button-was-clicked
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\misc\buttons-and-selects\determining-which-button-was-clicked.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/misc/how-to-use-custom-emojis
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\misc\how-to-use-custom-emojis.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/misc/slash-commands
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\misc\slash-commands.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/misc/tagging-a-channel
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\misc\tagging-a-channel.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/misc/tagging-a-role
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\misc\tagging-a-role.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/mods/installing-mods
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\mods\installing-mods.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/mods/untitled
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\mods\untitled.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/control-category
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\control-category.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/control-category/multiple-input
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\control-category\multiple-input.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/control-category/switch-case
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\control-category\switch-case.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/control-category/wait
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\control-category\wait.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/interaction-category
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\interaction-category.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/interaction-category/delete-interaction-reply
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\interaction-category\delete-interaction-reply.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/interaction-category/get-interaction-option
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\interaction-category\get-interaction-option.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/interaction-category/reply-to-interaction-with-message
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\interaction-category\reply-to-interaction-with-message.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/message-type-nodes
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\message-type-nodes.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/message-type-nodes/check-if-message-is-in-channel
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\message-type-nodes\check-if-message-is-in-channel.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/message-type-nodes/delete-message
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\message-type-nodes\delete-message.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/message-type-nodes/send-embed
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\message-type-nodes\send-embed.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/message-type-nodes/send-image
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\message-type-nodes\send-image.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/message-type-nodes/send-message
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\message-type-nodes\send-message.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/reaction-category
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\reaction-category.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/reaction-category/add-reaction-listener
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\reaction-category\add-reaction-listener.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-action-category
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-action-category.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-action-category/add-role-to-user
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-action-category\add-role-to-user.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-action-category/remove-role-from-user
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-action-category\remove-role-from-user.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-data-category
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-data-category.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-data-category/check-user-data
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-data-category\check-user-data.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-data-category/edit-user-data
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-data-category\edit-user-data.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-data-category/get-user-data
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-data-category\get-user-data.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/user-data-category/set-user-data
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\user-data-category\set-user-data.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/variable-category
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\variable-category.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/variable-category/check-if-variable-exists
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\variable-category\check-if-variable-exists.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/variable-category/check-variable-value
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\variable-category\check-variable-value.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/variable-category/edit-variable
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\variable-category\edit-variable.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/variable-category/generate-random-number
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\variable-category\generate-random-number.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/variable-category/get-mentioned-user
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\variable-category\get-mentioned-user.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/response-nodes/variable-category/store-value-in-variable
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\response-nodes\variable-category\store-value-in-variable.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/running-hosting-your-bot/hosting-your-bot-24-7
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\running-hosting-your-bot\hosting-your-bot-24-7.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/running-hosting-your-bot/multiple-bots
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\running-hosting-your-bot\multiple-bots.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/running-hosting-your-bot/untitled
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\running-hosting-your-bot\untitled.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/setting-up-dbs/enabling-intents
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\setting-up-dbs\enabling-intents.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\setting-up-dbs\finding-your-bot-token.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/setting-up-dbs/getting-started-with-dbs-text
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\setting-up-dbs\getting-started-with-dbs-text.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/setting-up-dbs/getting-started-with-flow-based-bot-creating-with-dbs
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\setting-up-dbs\getting-started-with-flow-based-bot-creating-with-dbs.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/setting-up-dbs/inviting-a-bot-to-your-server
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\setting-up-dbs\inviting-a-bot-to-your-server.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/setting-up-dbs/setup
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\setting-up-dbs\setup.html
+Content Type: text/html
+
+Uri: https://docs.discordbotstudio.org/spreadsheets/using-spreadsheet-data
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\spreadsheets\using-spreadsheet-data.html
+Content Type: text/html
+
+Uri: https://store.steampowered.com/favicon.ico
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.gitbook.com/cdn-cgi/image/width=24,dpr=2,height=24,fit=contain,format=auto/https:%2F%2F2973439326-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-M0L1z_JwGF9x5j-YBBE%252Favatar.png%3Fgeneration%3D1582035503308156%26alt%3Dmedia
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\cdn-cgi\image\width=24,dpr=2,height=24,fit=contain,format=auto\https2973439326-files.gitbook.io~filesv0bgitbook-legacy-filesospaces%2F-M0L1z_JwGF9x5j-YBBE%2Favatar.pnggeneration=1582035503308156&alt=media
+Content Type: image/png
+
+Uri: https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https:%2F%2F2973439326-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-M0L1z_JwGF9x5j-YBBE%252Favatar.png%3Fgeneration%3D1582035503308156%26alt%3Dmedia
+File Name: C:\Downloaded Web Sites\docs.discordbotstudio.org\cdn-cgi\image\width=36,dpr=2,height=36,fit=contain,format=auto\https2973439326-files.gitbook.io~filesv0bgitbook-legacy-filesospaces%2F-M0L1z_JwGF9x5j-YBBE%2Favatar.pnggeneration=1582035503308156&alt=media
+Content Type: image/png
+
